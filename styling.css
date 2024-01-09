@@ -1,0 +1,190 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+    font-size: 90%;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Hanken Grotesk';
+}
+
+section {
+    position: relative;
+    width: 42.5%;
+    height: 55.25%;
+    margin: auto;
+}
+
+#results {
+    background-image: linear-gradient(30deg, rgb(64, 29, 158), rgb(86, 63, 150));
+    position: relative;
+    float: left;
+    width: 50%;
+    text-align: center;
+    height: 100%;
+    border-radius: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#results_main {
+    color: white;
+    width: 80%;
+    height: 90%;
+    position: relative;
+    margin: auto;
+}
+
+h2 {
+    font-size: 140%;
+}
+
+#spam_cont {
+    background-color: rgb(64, 29, 158);
+    border-radius: 50%;
+    height: 40%;
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 11.5%;
+    margin-bottom: 11.5%;
+}
+
+#spam {
+    margin: auto;
+}
+
+h1 {
+    font-size: 380%;
+    padding: 0%;
+    border: 0%;
+    position: relative;
+    margin: 0%;
+}
+
+#of {
+    display: inline;
+}
+
+#youscoredhig {
+    width: 80%;
+    position: relative;
+    margin: auto;
+}
+
+#summaryCont {
+    position: relative;
+    float: right;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#summary {
+    width: 80%;
+    height: 90%;
+    position: relative;
+    margin: auto;
+}
+
+#sum {
+    font-size: 140%;
+}
+
+ul {
+    line-height: 390%;
+}
+
+#values {
+    position: relative;
+    width: 100%;
+    left: -10%;
+    margin-top: 10%;
+}
+
+.fractions {
+    display: inline;
+    padding-left: 30%;
+}
+
+.fractions2 {
+    display: inline;
+    padding-left: 35%;
+}
+
+#memory {
+    list-style: none;
+    background-image: url(results-summary-component-main/assets/images/icon-memory.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 15%;
+}
+
+#reaction {
+    list-style: none;
+    background-image: url(results-summary-component-main/assets/images/icon-reaction.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 15%;
+}
+
+#verbal {
+    list-style: none;
+    background-image: url(results-summary-component-main/assets/images/icon-verbal.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 15%;
+}
+
+#visual {
+    list-style: none;
+    background-image: url(results-summary-component-main/assets/images/icon-visual.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 15%;
+}
+
+#m {
+    color: rgb(255, 174, 0);
+}
+
+#r {
+    color: red;
+}
+
+#ve {
+    color: rgb(0, 128, 79);
+}
+
+#vi {
+    color: blue;
+}
+
+button {
+    width: 90%;
+    height: 12%;
+    position: relative;
+    margin-left: 5%;
+    border: none;
+    background-color: rgb(36, 36, 66);
+    color: white;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-image: linear-gradient(270deg, rgb(64, 29, 158), rgb(86, 63, 150));
+    cursor: pointer;
+}
