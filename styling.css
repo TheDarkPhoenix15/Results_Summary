@@ -127,7 +127,7 @@ ul {
 
 #memory {
     list-style: none;
-    background-image: url(results-summary-component-main/assets/images/icon-memory.svg);
+    background-image: url(assets/images/icon-memory.svg);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15%;
@@ -135,7 +135,7 @@ ul {
 
 #reaction {
     list-style: none;
-    background-image: url(results-summary-component-main/assets/images/icon-reaction.svg);
+    background-image: url(assets/images/icon-reaction.svg);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15%;
@@ -143,7 +143,7 @@ ul {
 
 #verbal {
     list-style: none;
-    background-image: url(results-summary-component-main/assets/images/icon-verbal.svg);
+    background-image: url(assets/images/icon-verbal.svg);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15%;
@@ -151,7 +151,7 @@ ul {
 
 #visual {
     list-style: none;
-    background-image: url(results-summary-component-main/assets/images/icon-visual.svg);
+    background-image: url(assets/images/icon-visual.svg);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15%;
