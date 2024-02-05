@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Results Summary</title>
-    <link rel="icon" type="image/png" sizes="32x32" href="./results-summary-component-main/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
     <link rel="stylesheet" href="styling.css">
 </head>
 <body>
